@@ -1,0 +1,236 @@
+body {
+    background-position: center;
+    height: 100%;
+    background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url("http://res.cloudinary.com/simpleview/image/upload/v1601422036/clients/utahddm/_089a287b-393f-402b-b5d1-db600b59efca.f003d86383.jpg");
+  }
+
+.h1Home {
+    text-align: center;
+    font-family: 'domine',serif;
+    font-size: 100px;
+    border-style: double;
+    border-width: 20px;
+    border-radius: 10px;
+    border-color: rgb(32, 68, 68);
+}    
+
+
+#every-box img:nth-child(1n) {
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 10px;
+    text-align: center;
+    height: 160px;
+    width: 200px;
+    background-position: center;
+    margin-left: 210px;
+    
+}
+
+.para-font {
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 20px;
+}
+
+form {
+    text-align: center;
+    border-style: solid;
+    padding: 20px;
+    padding-left: 20px;
+    margin: 20px;
+    border-width: 5px;
+    background-position: center;
+    height: 700px;
+    width: 600px;
+    background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url("https://www.outsideonline.com/wp-content/uploads/2019/08/29/garmin-overlander-alabama-hills-california-truck-camping_h.jpg") 50%;
+    background-size: 1000px;
+}
+
+#form-title {
+    margin-bottom: 60px;
+}
+.div-form {
+    text-align: center;
+    font-family: 'domine', serif;
+    font-size: 45px;
+    font-weight: bold;
+    font-style: oblique;
+    padding: 25px
+    
+}
+
+.h2-form {
+    display: inline-block;
+    border-width: inline ;
+    text-align: left;
+    font-size: 30px;
+    margin: 0px;
+    height: 750px;
+    width: 600px;
+    padding-top: 5px;
+    padding-bottom: 40px;
+    margin-left: 450px;
+
+}
+
+#input-border {
+    text-align: center;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgb(11, 69, 69);
+    border-width: 20px;
+    width: 400px;
+    height: 400px;
+    margin-left: 85px;
+    margin-top:30px;
+    padding-top: 50px;
+
+}
+
+.every-input input:nth-child(1n){
+    text-align: left;
+    height:50px;
+    width: 300px;
+    border-radius: 3px;
+    font-size: 20px;
+
+}
+
+.link-box1 {
+    padding: 50px;
+    border: solid;
+    border-radius: 10px;
+    border-width: 5px;
+    display: inline-block;
+    text-align: center;
+    background: url("https://images.carid.com/black-rhino/items/black-rhino-overland-matte-black-jeep-gladiator-5.jpg");
+    width: 300px;
+    height:35px;
+    background-size: 500px;
+    background-position-y: center;
+    font-size: 30px;
+
+}
+.link-box2 {
+    padding: 50px;
+    border: solid;
+    border-radius: 10px;
+    border-width: 5px;
+    display: inline-block;
+    text-align: center;
+    background: url("https://d2j6dbq0eux0bg.cloudfront.net/images/9429093/694275921.jpg");
+    width: 300px;
+    height:35px;
+    background-size: 400px;
+    background-position-y: center;
+    font-size: 50px;
+}
+.link-box3 {
+    padding: 50px;
+    border: solid;
+    border-radius: 10px;
+    border-width: 5px;
+    display: inline-block;
+    text-align: center;
+    background: url("https://overlandkingsph.com/wp-content/uploads/2019/05/Roof-Top-Tent-Rack.jpg" );
+    width: 300px;
+    height:35px;
+    background-size: 400px;
+    background-position-y: center;
+    font-size: 50px;
+}
+.link-box4 {
+    padding: 50px;
+    border: solid;
+    border-radius: 10px;
+    border-width: 5px;
+    display: inline-block;
+    text-align: center;
+    background: url("https://www.westinautomotive.com/cache/images_2_products_id-images_category_NerfStepBars_RunningBoards_Color_w640_h376_cr_q80.jpg");
+    width: 300px;
+    height:35px;
+    background-size: 400px;
+    background-position-y: center;
+    font-size: 50px;
+}
+.link-box5 {
+    padding: 50px;
+    border: solid;
+    border-radius: 10px;
+    border-width: 5px;
+    display: inline-block;
+    text-align: center;
+    background: url("https://3a663eb0fef48c6d2d60-a88f8ebfcdb877ad223e888bfcb7f7ec.ssl.cf1.rackcdn.com/1703627_x800.webp");
+    width: 300px;
+    height:35px;
+    background-size: 400px;
+    background-position-y: 250px;
+    font-size: 50px;
+}
+.link-box6 {
+    padding: 50px;
+    border: solid;
+    border-radius: 10px;
+    border-width: 5px;
+    display: inline-block;
+    text-align: center;
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6iUmclgTr-czl6njnPavaSVOP2RAyDBSfYQ&usqp=CAU" );
+    width: 300px;
+    height:35px;
+    background-size: 400px;
+    background-position-y: 250px;
+    font-size: 50px;
+}
+.link-box7 {
+    padding: 50px;
+    border: solid;
+    border-radius: 10px;
+    border-width: 5px;
+    display: inline-block;
+    display: list-item;
+    text-align: center;
+    background: url("https://ic.carid.com/curt/items/13182_1.jpg");
+    width: 300px;
+    height:35px;
+    background-size: 400px;
+    background-position-y: 250px;
+    font-size: 50px;
+}
+
+li:hover {
+    opacity: 100%;
+}
+
+li {
+    opacity: 70%;
+    width: 420px;  
+}
+
+#tableDisplay {
+    border-style: solid;
+    border-radius: 10px;
+    width: 45%;
+    text-align: center;
+    display: inline-table;
+    margin-left: 437px;
+}
+
+td {
+    border-style: solid;
+    border-color: rgb(58, 58, 58);
+    border-radius: 15px;
+    background-color: white;
+}
+
+.hov {
+    background-color: white;
+    
+}
+
+.hov:hover {
+    background-color: lightslategray;
+}
+
+#quick-menu {
+    font-family: 'Rajdhani', sans-serif;
+}
